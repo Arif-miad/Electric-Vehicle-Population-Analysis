@@ -341,6 +341,9 @@ plt.show()
 
 
 ```
+![Alt Text](https://github.com/Arif-miad/Electric-Vehicle-Population-Analysis/blob/main/accuracy.PNG)
+![Alt Text](https://github.com/Arif-miad/Electric-Vehicle-Population-Analysis/blob/main/plots.PNG)
+
 
 ---
 
